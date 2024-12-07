@@ -1,3 +1,4 @@
 # TiaPortal
-memory game in TIA portal
+memory game in TIA portal.
+
 SCL and LAD
